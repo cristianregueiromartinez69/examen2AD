@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<multas>
+<multa>
+<id>9</id>
+<idcoche>
+Coche: 
+id: 5
+matricula: 1234ABC
+marca: Toyota</idcoche>
+<importe>100.50</importe>
+<porcentaxereduccion>10</porcentaxereduccion>
+</multa>
+
+<multa>
+<id>10</id>
+<idcoche>
+Coche: 
+id: 6
+matricula: 5678XYZ
+marca: Ford</idcoche>
+<importe>150.00</importe>
+<porcentaxereduccion>5</porcentaxereduccion>
+</multa>
+
+<multa>
+<id>11</id>
+<idcoche>
+Coche: 
+id: 5
+matricula: 1234ABC
+marca: Toyota</idcoche>
+<importe>200.00</importe>
+<porcentaxereduccion>15</porcentaxereduccion>
+</multa>
+
+<multa>
+<id>12</id>
+<idcoche>
+Coche: 
+id: 6
+matricula: 5678XYZ
+marca: Ford</idcoche>
+<importe>50.75</importe>
+<porcentaxereduccion>0</porcentaxereduccion>
+</multa>
+</multas>
